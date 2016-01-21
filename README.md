@@ -1,2 +1,4 @@
-# jquery.digits
-Allows entering to input fields only numbers
+# jQuery Digits
+Lightweight jQuery plugin preventing from entering non-numbered symbols into input field.
+
+
